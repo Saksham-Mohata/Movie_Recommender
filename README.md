@@ -1,8 +1,5 @@
-# Movie-Recommendation-Engine-Engage'22-Project
-Repository for Challenge - 3 (Algorithms) project made during Microsoft Engage 2022
+# Movie-Recommendation-Engine
  
-[![Generic badge](https://img.shields.io/badge/Engage-2022-Red.svg?style=for-the-badge)](https://acehacker.com/microsoft/engage2022/index.html) 
-[![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assim-ujjwal)
 ![Generic badge](https://img.shields.io/badge/Heroku-Deployment-orange.svg?style=for-the-badge)
 
 ![Generic badge](https://img.shields.io/badge/Python-Language-blue.svg?style=for-the-badge)
@@ -115,8 +112,8 @@ To run the web app in your local device, run the following commands in your term
 
 Clone the GitHub repository into your local device by running the following command:
 ```bash
-git clone https://github.com/AssimUjjwal/Recommendation-Engine-Engage22
-cd Recommendation-Engine-Engage22
+git clone https://github.com/Saksham-Mohata/Movie_Recommender
+cd Movie_Recommender
 ```
 In the project directory:
   You need to switch on two terminals.
